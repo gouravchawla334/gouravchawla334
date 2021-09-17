@@ -17,8 +17,10 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/gourav-chawla/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="soumita-biswas-88b0941ab" height="30" width="40" /></a>
 <a href="https://instagram.com/GOURAVCHAWLA334" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.soumita._" height="30" width="40" /></a>
- <a href="https://instagram.com/GOURAVCHAWLA334" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="_.soumita._" height="30" width="40" /></a>
-<a href="https://github.com/gouravchawla334" target="blank"><img align="center" src="https://img.icons8.com/ios-glyphs/30/000000/github.png" alt="GOURAV-CHAWLA" height="30" width="40" /></a>
+ <a href="https://www.facebook.com/gouravchawla334/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="_.soumita._" height="30" width="40" /></a>
+ <a href="https://github.com/gouravchawla334" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="_.soumita._" height="30" width="40" /></a>
+ <a href="https://www.hackerrank.com/gouravchawla334?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="_.soumita._" height="30" width="40" /></a>
+ <a href="https://www.hackerrank.com/gouravchawla334?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gfg.svg" alt="_.soumita._" height="30" width="40" /></a>
 
 </p>
 
