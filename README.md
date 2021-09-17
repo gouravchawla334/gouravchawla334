@@ -20,8 +20,6 @@
  <a href="https://www.facebook.com/gouravchawla334/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="_.soumita._" height="30" width="40" /></a>
  <a href="https://github.com/gouravchawla334" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="_.soumita._" height="30" width="40" /></a>
  <a href="https://www.hackerrank.com/gouravchawla334?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="_.soumita._" height="30" width="40" /></a>
- <a href="https://www.hackerrank.com/gouravchawla334?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeksforgeeks.svg" alt="_.soumita._" height="30" width="40" /></a>
-
 </p>
 
 <br>
