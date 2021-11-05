@@ -1,7 +1,10 @@
 <!-- <img src="https://i.imgur.com/iXuL1HG.png" alt="GOURAV-CHAWLA" />  -->
-<img src="https://media.giphy.com/media/gh0RRgkTXedvF0pDc0/giphy.gif" class="figure-img img-fluid rounded" alt="Coder GIF">
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Gourav </h1>
+
+<img src="https://media.giphy.com/media/gh0RRgkTXedvF0pDc0/giphy.gif" style="align-items: center;"  alt="Coder GIF">
+
+
 <h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
 
 - 🙋‍♀️ **I’m final year B.Tech CSE student from SIET**
