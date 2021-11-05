@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Gourav </h1>
 
-<img src="https://media.giphy.com/media/gh0RRgkTXedvF0pDc0/giphy.gif" style="align-items: center;"  alt="Coder GIF">
+<img src="https://media.giphy.com/media/gh0RRgkTXedvF0pDc0/giphy.gif" alt="Coder GIF" style="align-self:center;">
 
 
 <h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
