@@ -1,10 +1,6 @@
-<!-- <img src="https://i.imgur.com/iXuL1HG.png" alt="GOURAV-CHAWLA" />  -->
-
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Gourav </h1>
-
-<img src="https://media.giphy.com/media/gh0RRgkTXedvF0pDc0/giphy.gif" alt="Coder GIF" style="align-self:center; margin-left: 200px;">
-
-
+<img src="https://media.giphy.com/media/gh0RRgkTXedvF0pDc0/giphy.gif" alt="Coder GIF" style="align:center; margin-left: 200px;">
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gouravchawla334" alt="gouravchawla334" /></a> </p>
 <h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
 
 - 🙋‍♀️ **I’m final year B.Tech CSE student from SIET**
@@ -15,23 +11,19 @@
 
 - 💁‍♀️ **All of my projects are available at [here](https://github.com/gouravchawla334?tab=repositories)**
 
-
 - 📫 **Reach me at gouravchawla333@gmail.com**
 
 <h3 align="left">✔️Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/gourav-chawla/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="soumita-biswas-88b0941ab" height="30" width="40" /></a>
-<a href="https://instagram.com/GOURAVCHAWLA334" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.soumita._" height="30" width="40" /></a>
- <a href="https://www.facebook.com/gouravchawla334/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="_.soumita._" height="30" width="40" /></a>
- <a href="https://github.com/gouravchawla334" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="_.soumita._" height="30" width="40" /></a>
- <a href="https://www.hackerrank.com/gouravchawla334?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="_.soumita._" height="30" width="40" /></a>
-</p>
-
-
+<a href="https://www.linkedin.com/in/gourav-chawla/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gourav-chawla" height="30" width="40" /></a>
+<a href="https://instagram.com/GOURAVCHAWLA334" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="GOURAVCHAWLA334" height="30" width="40" /></a>
+ <a href="https://www.facebook.com/gouravchawla334/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="gouravchawla334" height="30" width="40" /></a>
+ <a href="https://github.com/gouravchawla334" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="gouravchawla334" height="30" width="40" /></a>
+ <a href="https://www.hackerrank.com/gouravchawla334?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="gouravchawla334" height="30" width="40" /></a>
+<a href="https://discord.gg/7595" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="7595" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCzfvycWM0waQpfA4QgRKf_Q" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="7595" height="30" width="40" /></a></p>
 <br>
-
 ### Languages and Tools:
-
 <p align="left"> 
 <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
@@ -46,7 +38,9 @@
 <a href="#" target="_blank"><img align="left" alt="Git" height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" /></a>
 <a href="#" target="_blank"><img align="left" alt="GitHub" height="40" width="40" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /></a>
 <a href="#" target="_blank"><img align="left" alt="Terminal" height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /></a>
-
+ <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
 </p>
 
 <br>
