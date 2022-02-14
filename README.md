@@ -6,7 +6,7 @@
 
 - 🙋‍♀️ **I’m final year B.Tech CSE student from SIET**
 
-- 👩‍💻 **Currently learning Full Stack Development**
+- 👩‍💻 **Currently learning Full Stack Development, Cloud Computing and AI**
 
 - 🤝 **I’m looking to collaborate on my projects**
 
