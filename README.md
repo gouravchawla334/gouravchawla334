@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Gourav </h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height = "30px">, I'm Gourav </h1>
 <img src="https://github.com/gouravchawla334/gouravchawla334/blob/main/Creative%20Director%20Profile%20Header%20LinkedIn%20Banner.png" alt="Coder GIF" style="align:center; margin-left: 200px;">
 <!-- https://media.giphy.com/media/gh0RRgkTXedvF0pDc0/giphy.gif -->
 
