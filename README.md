@@ -8,11 +8,7 @@
 
 - 👩‍💻 **Currently learning Full Stack Development, Cloud Computing and AI**
 
-- 🤝 **I’m looking to collaborate on my projects**
-
 - 💁‍♀️ **All of my projects are available at [here](https://github.com/gouravchawla334?tab=repositories)**
-
-- 📫 **Reach me at gouravchawla333@gmail.com**
 
 ### Languages and Tools:
 <p align="left"> 
@@ -61,28 +57,7 @@
  
  <hr>
  
- <br>
-
-  <div align="center">
-  <h3><b>😄 Can Connect With Me On</b></h3>
-  </div>
-<p align="center">
-<a href="https://gouravchawla.netlify.app/" target="_blank"> <img align="center" alt="Portfolio" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/www.svg" />
-</a> &nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/gourav-chawla/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gourav-chawla" height="30" width="40" /></a>&nbsp;&nbsp;
-<a href="https://instagram.com/GOURAVCHAWLA334" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="GOURAVCHAWLA334" height="30" width="40" /></a>&nbsp;&nbsp;
- <a href="https://www.facebook.com/gouravchawla334/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="gouravchawla334" height="30" width="40" /></a>&nbsp;&nbsp;
- <a href="https://github.com/gouravchawla334" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="gouravchawla334" height="30" width="40" /></a>&nbsp;&nbsp;
- <a href="https://www.hackerrank.com/gouravchawla334?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="gouravchawla334" height="30" width="40" /></a>&nbsp;&nbsp;
-<a href="https://discord.gg/7595" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="7595" height="30" width="40" /></a>&nbsp;&nbsp;
-<a href="https://www.youtube.com/channel/UCzfvycWM0waQpfA4QgRKf_Q" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="7595" height="30" width="40" /></a>&nbsp;&nbsp;
-<a href="https://gouravchawla334.github.io/MYRESUME/"><img align="center" alt="Darshan R | Resume" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/resume.png" />
-</a> &nbsp;&nbsp;
-</p>
-  
 <br>
-
-
 <div align=center>
   <h3><b>📍 Profile Visitor Count</b></h3>
 </div>
