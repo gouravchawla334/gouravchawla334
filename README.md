@@ -1,14 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height = "30px">, I'm Gourav </h1>
 <img src="https://github.com/gouravchawla334/gouravchawla334/blob/main/Creative%20Director%20Profile%20Header%20LinkedIn%20Banner.png" alt="Coder GIF" style="align:center; margin-left: 200px;">
-<!-- https://media.giphy.com/media/gh0RRgkTXedvF0pDc0/giphy.gif -->
-
-<h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
-
-- 🙋‍♀️ **I’m final year B.Tech CSE student from SIET**
-
-- 👩‍💻 **Currently learning Full Stack Development, Cloud Computing and AI**
-
-- 💁‍♀️ **All of my projects are available at [here](https://github.com/gouravchawla334?tab=repositories)**
 
 ### Languages and Tools:
 <p align="left"> 
@@ -51,9 +42,9 @@
 
 
 <!--   GitHub stats graph -->
-### 📈 GitHub Activity Graph:
- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=gouravchawla334&theme=github)
- <br> 
+<!-- ### 📈 GitHub Activity Graph:
+ ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=gouravchawla&theme=github)
+ <br>  -->
  
  <hr>
  
