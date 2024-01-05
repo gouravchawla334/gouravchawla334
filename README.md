@@ -31,14 +31,11 @@
 
 
 <!--   Stats -->
-### 📊 GitHub Stats:
-![Darshan R github stats](https://github-readme-stats.vercel.app/api?username=gouravchawla334&theme=nord&show_icons=true&count_private=true)
   
   
 <!--   Top Languages Using -->
 ### 👨‍💻 Top Languages Used*:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gouravchawla334&theme=nord_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gouravchawla334&theme=nord_dark)
 
 
 <!--   GitHub stats graph -->
