@@ -16,9 +16,19 @@
 |  <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" title="GOOGLE"  alt="GOOGLE" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="AZURE"  alt="AZURE" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg" title="TERRAFORM" alt="TERRAFORM" width="55" height="55"/> |
 
 ### Web Development Technologies:
-| HTML5 | CSS3 | BOOTSTRAP |
-|----------|----------|----------|
-|  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5"  alt="HTML5" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="AZURE"  alt="AZURE" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg" title="TERRAFORM" alt="TERRAFORM" width="55" height="55"/> |  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />| 
+| HTML5 | CSS3 | BOOTSTRAP | JQUERY | WORDPRESS | 
+|----------|----------|----------|----------|----------|
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5"  alt="HTML5" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3"  alt="CSS3" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="bootstrap" alt="bootstrap" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" alt="jquery" width="65" height="65" /> | <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" alt="jquery" width="65" height="65" />
+
+### Web Development Technologies:
+| HTML5 | CSS3 | BOOTSTRAP | JQUERY | WORDPRESS | 
+|----------|----------|----------|----------|----------|
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5"  alt="HTML5" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3"  alt="CSS3" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="bootstrap" alt="bootstrap" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" alt="jquery" width="65" height="65" /> | <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" alt="jquery" width="65" height="65" />
+
+### DATABASES:
+| SQL | MONGODB | 
+|----------|----------|
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="mysql"  alt="mysql" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="mongodb"  alt="mongodb" width="55" height="55"/> |  
 
 ### OS:
 
