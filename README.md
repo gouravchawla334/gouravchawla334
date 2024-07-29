@@ -11,8 +11,14 @@
 |  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C"  alt="C" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> |  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />| 
   
 ### Cloud and Technologies:
-| GCP | AZURE | Terraform |  |
-|----------|----------|----------|-----|
+| GCP | AZURE | Terraform |
+|----------|----------|----------|
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" title="GOOGLE"  alt="GOOGLE" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="AZURE"  alt="AZURE" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg" title="TERRAFORM" alt="TERRAFORM" width="55" height="55"/> |
+
+### Web Development Technologies:
+| HTML5 | CSS3 | BOOTSTRAP |
+|----------|----------|----------|
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5"  alt="HTML5" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="AZURE"  alt="AZURE" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg" title="TERRAFORM" alt="TERRAFORM" width="55" height="55"/> |  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />| 
 
 ### OS:
 
