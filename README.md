@@ -6,32 +6,29 @@
 <div>
 
 ### Languages:
+
 | Python3 | C | JS | CPP |
 |----------|----------|----------|-----|
 |  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C"  alt="C" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> |  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />| 
   
-### Cloud and Technologies:
-| GCP | AZURE | Terraform |
-|----------|----------|----------|
-|  <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" title="GOOGLE"  alt="GOOGLE" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="AZURE"  alt="AZURE" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg" title="TERRAFORM" alt="TERRAFORM" width="55" height="55"/> |
+###  Big Data and Cloud Technologies:
+
+| GCP | AZURE | Terraform | HADOOP | SPARK |
+|----------|----------|----------|----------|----------|
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" title="GOOGLE"  alt="GOOGLE" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="AZURE"  alt="AZURE" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg" title="TERRAFORM" alt="TERRAFORM" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/hadoop/hadoop-original.svg" title="hadoop"  alt="hadoop" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/apachespark/apachespark-original.svg" title="spark"  alt="spark" width="55" height="55"/> |
 
 ### Web Development Technologies:
-| HTML5 | CSS3 | BOOTSTRAP | JQUERY | WORDPRESS | 
-|----------|----------|----------|----------|----------|
-|  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5"  alt="HTML5" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3"  alt="CSS3" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="bootstrap" alt="bootstrap" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" alt="jquery" width="65" height="65" /> | <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" alt="jquery" width="65" height="65" />
 
-### Big Data Technologies:
-| HADOOP | SPARK |
-|----------|----------|
-|  <img src="https://github.com/devicons/devicon/blob/master/icons/hadoop/hadoop-original.svg" title="hadoop"  alt="hadoop" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/apachespark/apachespark-original.svg" title="spark"  alt="spark" width="55" height="55"/> |
-
-### DATABASES, OS, and OTHER TOOLS:
-| SQL | MONGODB |  Linux | Git | Github | BASH |
-|----------|----------|----------|----------|----------|----------|
-|  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="mysql"  alt="mysql" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="mongodb"  alt="mongodb" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="github" alt="github" width="55" height="55"/> |<img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="bash" alt="bash" width="55" height="55"/> | 
+| HTML5 | CSS3 | BOOTSTRAP | PHP | JQery | WORDPRESS | FIGMA |
+|----------|----------|----------|----------|----------|----------|----------|
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5"  alt="HTML5" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3"  alt="CSS3" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="bootstrap" alt="bootstrap" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="php" width="65" height="65" /> |  <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" alt="jquery" width="65" height="65" /> | <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" alt="jquery" width="65" height="65" /> | <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="figma" width="65" height="65" />
 
 
+### Other Tools:
 
+| SQL | MONGODB |  LINUX | GIT | GITHUB | BASH | JIRA | JENKINS | VS CODE | JUPITER NOTEBOOK
+|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="mysql"  alt="mysql" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="mongodb"  alt="mongodb" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="github" alt="github" width="55" height="55"/> |<img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="bash" alt="bash" width="55" height="55"/> |<img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" title="jira" alt="jira" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="jenkins" alt="jenkins" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" title="jupiter" alt="jupiter" width="55" height="55"/> | 
 
 <!-- Profile Trophy -->
 <!-- ### 🏆 GitHub Profile Trophy:
@@ -48,7 +45,6 @@
   <img width="800" height="220" src="https://streak-stats.demolab.com?user=gouravchawla334&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
 </p>
 
-
 ---
 
 <p align="right">
@@ -59,7 +55,6 @@
  <img width="600" height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gouravchawla334&theme=nord_dark">
 </p>
   
-
 
 <div id="header" align="center">
   <img src="https://komarev.com/ghpvc/?username=gouravchawla334&style=for-the-badge&color=orange" alt=""/>
