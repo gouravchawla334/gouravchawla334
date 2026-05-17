@@ -18,7 +18,18 @@
   <a href="https://github.com/gouravchawla334">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+</p>
+
+<p>
+  <a href="https://gouravchawla334.github.io/MYRESUME/" target="_blank">
+    <img src="https://img.shields.io/badge/View%20Resume-00D9FF?style=for-the-badge&logo=googlechrome&logoColor=black" />
+  </a>
+  &nbsp;
+  <a href="https://topmate.io/gourav_chawla" target="_blank">
+    <img src="https://img.shields.io/badge/Book%20a%201:1%20on%20Topmate-FF6B35?style=for-the-badge&logo=calendly&logoColor=white" />
+  </a>
   <img src="https://komarev.com/ghpvc/?username=gouravchawla334&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS" />
+  
 </p>
 
 </div>
@@ -59,7 +70,7 @@ me = DataEngineer()
 
 ### 🟣 Accenture — *Data Engineer (Analyst)* `Mar 2025 – Present`
 1. Architected end-to-end data products using Medallion Architecture with dbt and BigQuery
-2. Built a metadata-driven ingestion framework using Airflow DAGs and Dataproc processing 30+ TB daily
+2. Built a metadata-driven ingestion framework using Airflow DAGs and Dataproc processing 30+ GB daily
 3. Designed a secure RESTful API framework for automated JSON data extraction from external vendors
 4. Spearheaded team deployments via GitHub + Docker CI/CD pipelines with automated quality gates
 5. Leading and mentoring a cross-functional group of 5–6 junior engineers across multiple teams
@@ -125,7 +136,7 @@ me = DataEngineer()
 
 ## 🚀 Featured Project
 
-### 🛒 [Flipkart Insight Engine](https://github.com/gouravchawla334)
+### 🛒 [Flipkart Insight Engine](https://github.com/gouravchawla334/Flipkart-Insight-Engine)
 > *Apache Spark · PySpark · Databricks · NLP · Python*
 
 - 📊 Built a comprehensive analysis tool using **PySpark on Databricks** to extract insights from large-scale e-commerce data
@@ -152,15 +163,6 @@ me = DataEngineer()
 <div align="center">
 
 <img width="800" height="220" src="https://streak-stats.demolab.com?user=gouravchawla334&theme=highcontrast&hide_border=true&border_radius=5&card_width=800"/>
-
-<br/>
-
-<!-- <img width="49%" src="https://github-readme-stats.vercel.app/api?username=gouravchawla334&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gouravchawla334&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gouravchawla334&theme=tokyonight" width="98%"/> -->
 
 </div>
 
